@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SpaceShooter": {
+      "commandName": "Project",
+      "commandLineArgs": "/target:winexe /platform:anycpu"
+    }
+  }
+}
