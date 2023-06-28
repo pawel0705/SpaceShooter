@@ -4,7 +4,9 @@
 # Sterowanie
 
 Poruszanie się: W, S, A, D
+
 Strzał: Spacja
+
 Zatwierdzanie wyboru: Enter / Spacja
 
 # Zrzuty ekranu z rozgrywki
